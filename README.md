@@ -6,4 +6,4 @@
 
 - Cursando Comunicação Social na Unicamp
 
-- Meu Portfólio está disponível <a href="https://mateusgotardi.herokuapp.com" target="blank">aqui</a>
+- Meu Portfólio está disponível <a href="https://mateusgotardi.vercel.app" target="blank">aqui</a>
