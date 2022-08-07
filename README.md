@@ -1,6 +1,6 @@
 <h1>Olá! Eu sou o Mateus Gotardi!</h1>
 
-- Desenvolvedor FullStack jr
+- Desenvolvedor FullStack JS
 
 - Atualmente buscando minha primeira oportunidade como dev
 
