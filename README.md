@@ -1,6 +1,5 @@
 <h1>Olá! Eu sou o Mateus Gotardi!</h1>
 💻 Desenvolvedor FullStack JS<br/>
-🖱️ Atualmente buscando minha primeira oportunidade como dev<br/>
 📚 Cursando Comunicação Social na Unicamp<br/>
 💡 Meu Portfólio está disponível <a href="https://mateusgotardi.vercel.app" target="blank">aqui</a><br/><br/>
 <div align="center">
